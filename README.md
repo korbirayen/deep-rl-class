@@ -22,7 +22,7 @@ To cite this repository in publications:
 @misc{deep-rl-course,
   author = {Simonini, Thomas and Sanseviero, Omar},
   title = {The Hugging Face Deep Reinforcement Learning Class},
-  year = {2023},
+  year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/huggingface/deep-rl-class}},
